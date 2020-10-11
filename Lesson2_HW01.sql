@@ -44,12 +44,7 @@ DECLARE
   ,convert(nvarchar(16), Orders.OrderDate, 104) as OrderDate 
   ,DATENAME(MONTH, Orders.OrderDate) as OrderDateMonth 
   ,DATENAME(quarter, Orders.OrderDate) as OrderDateQuarter
-  ,CASE 
-		WHEN MONTH(Orders.OrderDate) >=1 and MONTH(Orders.OrderDate) < 5	THEN 1
-		WHEN MONTH(Orders.OrderDate) >=5 and MONTH(Orders.OrderDate) < 9	THEN 2
-		WHEN MONTH(Orders.OrderDate) >=9 and MONTH(Orders.OrderDate) <= 12	THEN 3
-		ELSE 0
-		END OrderDateTremester
+  ,CEILING(month(Orders.OrderDate)/4.00)		as OrderDateTremester
   ,Customer.CustomerName
   from Sales.Orders as Orders
   JOIN Sales.OrderLines as OrderLines ON OrderLines.OrderID = Orders.OrderID
@@ -127,7 +122,7 @@ DECLARE
   YEAR(InvoiceDate) as InvoiceDateYEAR,
   MONTH(InvoiceDate) as InvoiceDateMonthNumber
   ,AVG(UnitPrice) as AVGPrice
-  ,SUM(UnitPrice) as SumPrice
+  ,SUM(UnitPrice*Quantity) as SumPrice
   from 
   Sales.Invoices
   inner join Sales.InvoiceLines ON Invoices.InvoiceID = InvoiceLines.InvoiceID
@@ -146,11 +141,11 @@ DECLARE
   select
   YEAR(InvoiceDate) as InvoiceDateYEAR,
   MONTH(InvoiceDate) as InvoiceDateMonthNumber
-  ,SUM(UnitPrice) as SumPrice
+  ,SUM(UnitPrice*Quantity) as SumPrice
   from 
   Sales.Invoices
   inner join Sales.InvoiceLines ON Invoices.InvoiceID = InvoiceLines.InvoiceID 
-  GROUP BY YEAR(InvoiceDate) , MONTH(InvoiceDate) HAVING SUM(UnitPrice)>10000
+  GROUP BY YEAR(InvoiceDate) , MONTH(InvoiceDate) HAVING SUM(UnitPrice*Quantity)>10000
   order by InvoiceDateYEAR,InvoiceDateMonthNumber
 
   /*
@@ -171,7 +166,7 @@ DECLARE
   ,MONTH(InvoiceDate)			as InvoiceDateMonthNumber
   ,StockItems.StockItemName     as StockItemName
   ,SUM(Quantity)				as QuantityByMonth
-  ,SUM(InvoiceLines.UnitPrice)  as SumPriceMonth
+  ,SUM(InvoiceLines.UnitPrice*Quantity)  as SumPriceMonth
   from 
   Sales.Invoices
   inner join Sales.InvoiceLines ON Invoices.InvoiceID = InvoiceLines.InvoiceID 
@@ -189,12 +184,12 @@ DECLARE
     select
   YEAR(InvoiceDate) as InvoiceDateYEAR,
   MonthNumbers.MonthNumber as InvoiceDateMonthNumber
-  ,SUM(isNuLL(UnitPrice,0)) as SumPrice
+  ,SUM(isNuLL(UnitPrice*Quantity,0)) as SumPrice
   from (values(1), (2), (3),(4),(5),(6),(7),(8),(9),(10),(11),(12)) as MonthNumbers (MonthNumber)
   LEFT JOIN Sales.Invoices ON MONTH(InvoiceDate) = MonthNumbers.MonthNumber
   LEFT join Sales.InvoiceLines ON Invoices.InvoiceID = InvoiceLines.InvoiceID 
   GROUP BY YEAR(InvoiceDate) , MonthNumbers.MonthNumber 
-	HAVING SUM(isNuLL(UnitPrice,0)) >10000 OR SUM(isNuLL(UnitPrice,0))  = 0
+	HAVING SUM(isNuLL(UnitPrice*Quantity,0)) >10000 OR SUM(isNuLL(UnitPrice*Quantity,0))  = 0
   order by InvoiceDateYEAR,MonthNumbers.MonthNumber
 
   /*9 доп - сделал топорно, но вроде работает*/ 
@@ -218,7 +213,7 @@ DECLARE
 	ELSE 0
    END QuantityByMonth
   ,CASE 
-	WHEN Invoices.InvoiceID is not null THEN SUM(InvoiceLines.UnitPrice)
+	WHEN Invoices.InvoiceID is not null THEN SUM(InvoiceLines.UnitPrice*InvoiceLines.Quantity)
 	ELSE 0
    END SumPriceMonth
   from helpQuery
