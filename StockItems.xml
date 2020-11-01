@@ -1,0 +1,3666 @@
+﻿<StockItems>
+  <Item Name="USB missile launcher (Green)">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>12</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:          1-->
+  </Item>
+  <Item Name="USB rocket launcher (Gray)">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:          2-->
+  </Item>
+  <Item Name="Office cube periscope (Black)">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.50</UnitPrice>
+    <!--StockItemID:          3-->
+  </Item>
+  <Item Name="USB food flash drive - sushi roll">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>12</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:          4-->
+  </Item>
+  <Item Name="USB food flash drive - hamburger">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:          5-->
+  </Item>
+  <Item Name="USB food flash drive - hot dog">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:          6-->
+  </Item>
+  <Item Name="USB food flash drive - pizza slice">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:          7-->
+  </Item>
+  <Item Name="USB food flash drive - dim sum 10 drive variety pack">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>9</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>240.00</UnitPrice>
+    <!--StockItemID:          8-->
+  </Item>
+  <Item Name="USB food flash drive - banana">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:          9-->
+  </Item>
+  <Item Name="USB food flash drive - chocolate bar">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:         10-->
+  </Item>
+  <Item Name="USB food flash drive - cookie">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:         11-->
+  </Item>
+  <Item Name="USB food flash drive - donut">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:         12-->
+  </Item>
+  <Item Name="USB food flash drive - shrimp cocktail">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:         13-->
+  </Item>
+  <Item Name="USB food flash drive - fortune cookie">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.050</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:         14-->
+  </Item>
+  <Item Name="USB food flash drive - dessert 10 drive variety pack">
+    <SupplierID>12</SupplierID>
+    <Package>
+      <UnitPackageID>9</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>240.00</UnitPrice>
+    <!--StockItemID:         15-->
+  </Item>
+  <Item Name="DBA joke mug - mind if I join you? (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         16-->
+  </Item>
+  <Item Name="DBA joke mug - mind if I join you? (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         17-->
+  </Item>
+  <Item Name="DBA joke mug - daaaaaa-ta (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         18-->
+  </Item>
+  <Item Name="DBA joke mug - daaaaaa-ta (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         19-->
+  </Item>
+  <Item Name="DBA joke mug - you might be a DBA if (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         20-->
+  </Item>
+  <Item Name="DBA joke mug - you might be a DBA if (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         21-->
+  </Item>
+  <Item Name="DBA joke mug - it depends (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         22-->
+  </Item>
+  <Item Name="DBA joke mug - it depends (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         23-->
+  </Item>
+  <Item Name="DBA joke mug - I will get you in order (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         24-->
+  </Item>
+  <Item Name="DBA joke mug - I will get you in order (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         25-->
+  </Item>
+  <Item Name="DBA joke mug - SELECT caffeine FROM mug (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         26-->
+  </Item>
+  <Item Name="DBA joke mug - SELECT caffeine FROM mug (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         27-->
+  </Item>
+  <Item Name="DBA joke mug - two types of DBAs (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         28-->
+  </Item>
+  <Item Name="DBA joke mug - two types of DBAs (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         29-->
+  </Item>
+  <Item Name="Developer joke mug - Oct 31 = Dec 25 (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         30-->
+  </Item>
+  <Item Name="Developer joke mug - Oct 31 = Dec 25 (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         31-->
+  </Item>
+  <Item Name="Developer joke mug - that's a hardware problem (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         32-->
+  </Item>
+  <Item Name="Developer joke mug - that's a hardware problem (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         33-->
+  </Item>
+  <Item Name="Developer joke mug - fun was unexpected at this time (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         34-->
+  </Item>
+  <Item Name="Developer joke mug - fun was unexpected at this time (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         35-->
+  </Item>
+  <Item Name="Developer joke mug - when your hammer is C++ (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         36-->
+  </Item>
+  <Item Name="Developer joke mug - when your hammer is C++ (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         37-->
+  </Item>
+  <Item Name="Developer joke mug - inheritance is the OO way to become wealthy (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         38-->
+  </Item>
+  <Item Name="Developer joke mug - inheritance is the OO way to become wealthy (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         39-->
+  </Item>
+  <Item Name="Developer joke mug - (hip, hip, array) (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         40-->
+  </Item>
+  <Item Name="Developer joke mug - (hip, hip, array) (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         41-->
+  </Item>
+  <Item Name="Developer joke mug - understanding recursion requires understanding recursion (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         42-->
+  </Item>
+  <Item Name="Developer joke mug - understanding recursion requires understanding recursion (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         43-->
+  </Item>
+  <Item Name="Developer joke mug - there are 10 types of people in the world (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         44-->
+  </Item>
+  <Item Name="Developer joke mug - there are 10 types of people in the world (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         45-->
+  </Item>
+  <Item Name="Developer joke mug - a foo walks into a bar (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         46-->
+  </Item>
+  <Item Name="Developer joke mug - a foo walks into a bar (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         47-->
+  </Item>
+  <Item Name="Developer joke mug - this code was generated by a tool (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         48-->
+  </Item>
+  <Item Name="Developer joke mug - this code was generated by a tool (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         49-->
+  </Item>
+  <Item Name="Developer joke mug - old C developers never die (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         50-->
+  </Item>
+  <Item Name="Developer joke mug - old C developers never die (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         51-->
+  </Item>
+  <Item Name="IT joke mug - keyboard not found … press F1 to continue (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         52-->
+  </Item>
+  <Item Name="IT joke mug - keyboard not found … press F1 to continue (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         53-->
+  </Item>
+  <Item Name="IT joke mug - that behavior is by design (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         54-->
+  </Item>
+  <Item Name="IT joke mug - that behavior is by design (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         55-->
+  </Item>
+  <Item Name="IT joke mug - hardware: part of the computer that can be kicked (White)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         56-->
+  </Item>
+  <Item Name="IT joke mug - hardware: part of the computer that can be kicked (Black)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.150</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>13.00</UnitPrice>
+    <!--StockItemID:         57-->
+  </Item>
+  <Item Name="RC toy sedan car with remote control (Black) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:         58-->
+  </Item>
+  <Item Name="RC toy sedan car with remote control (Red) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:         59-->
+  </Item>
+  <Item Name="RC toy sedan car with remote control (Blue) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:         60-->
+  </Item>
+  <Item Name="RC toy sedan car with remote control (Green) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:         61-->
+  </Item>
+  <Item Name="RC toy sedan car with remote control (Yellow) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:         62-->
+  </Item>
+  <Item Name="RC toy sedan car with remote control (Pink) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:         63-->
+  </Item>
+  <Item Name="RC vintage American toy coupe with remote control (Red) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>30.00</UnitPrice>
+    <!--StockItemID:         64-->
+  </Item>
+  <Item Name="RC vintage American toy coupe with remote control (Black) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>30.00</UnitPrice>
+    <!--StockItemID:         65-->
+  </Item>
+  <Item Name="RC big wheel monster truck with remote control (Black) 1/50 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.800</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>45.00</UnitPrice>
+    <!--StockItemID:         66-->
+  </Item>
+  <Item Name="Ride on toy sedan car (Black) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>15.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>230.00</UnitPrice>
+    <!--StockItemID:         67-->
+  </Item>
+  <Item Name="Ride on toy sedan car (Red) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>15.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>230.00</UnitPrice>
+    <!--StockItemID:         68-->
+  </Item>
+  <Item Name="Ride on toy sedan car (Blue) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>15.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>230.00</UnitPrice>
+    <!--StockItemID:         69-->
+  </Item>
+  <Item Name="Ride on toy sedan car (Green) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>15.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>230.00</UnitPrice>
+    <!--StockItemID:         70-->
+  </Item>
+  <Item Name="Ride on toy sedan car (Yellow) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>15.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>230.00</UnitPrice>
+    <!--StockItemID:         71-->
+  </Item>
+  <Item Name="Ride on toy sedan car (Pink) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>15.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>230.00</UnitPrice>
+    <!--StockItemID:         72-->
+  </Item>
+  <Item Name="Ride on vintage American toy coupe (Red) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>18.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>285.00</UnitPrice>
+    <!--StockItemID:         73-->
+  </Item>
+  <Item Name="Ride on vintage American toy coupe (Black) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>18.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>285.00</UnitPrice>
+    <!--StockItemID:         74-->
+  </Item>
+  <Item Name="Ride on big wheel monster truck (Black) 1/12 scale">
+    <SupplierID>10</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>21.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>345.00</UnitPrice>
+    <!--StockItemID:         75-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) 3XS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         76-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) XXS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         77-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) XS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         78-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         79-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         80-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         81-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         82-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) XXL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         83-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) 3XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         84-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) 4XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         85-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) 5XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         86-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) 6XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         87-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (White) 7XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.450</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         88-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) 3XS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         89-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) XXS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         90-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) XS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         91-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         92-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         93-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         94-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         95-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) XXL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         96-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) 3XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         97-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) 4XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         98-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) 5XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:         99-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) 6XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        100-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) 7XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.450</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        101-->
+  </Item>
+  <Item Name="Alien officer hoodie (Black) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>35.00</UnitPrice>
+    <!--StockItemID:        102-->
+  </Item>
+  <Item Name="Alien officer hoodie (Black) XXL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>35.00</UnitPrice>
+    <!--StockItemID:        103-->
+  </Item>
+  <Item Name="Alien officer hoodie (Black) 3XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>35.00</UnitPrice>
+    <!--StockItemID:        104-->
+  </Item>
+  <Item Name="Alien officer hoodie (Black) 4XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>35.00</UnitPrice>
+    <!--StockItemID:        105-->
+  </Item>
+  <Item Name="Alien officer hoodie (Black) 5XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>35.00</UnitPrice>
+    <!--StockItemID:        106-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) 3XS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:        107-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) XXS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:        108-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) XS">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:        109-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:        110-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>30.00</UnitPrice>
+    <!--StockItemID:        111-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>30.00</UnitPrice>
+    <!--StockItemID:        112-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>30.00</UnitPrice>
+    <!--StockItemID:        113-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) XXL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>30.00</UnitPrice>
+    <!--StockItemID:        114-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) 3XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>34.00</UnitPrice>
+    <!--StockItemID:        115-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) 4XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>34.00</UnitPrice>
+    <!--StockItemID:        116-->
+  </Item>
+  <Item Name="Superhero action jacket (Blue) 5XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>34.00</UnitPrice>
+    <!--StockItemID:        117-->
+  </Item>
+  <Item Name="Dinosaur battery-powered slippers (Green) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>4</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        118-->
+  </Item>
+  <Item Name="Dinosaur battery-powered slippers (Green) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>4</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>48.00</UnitPrice>
+    <!--StockItemID:        119-->
+  </Item>
+  <Item Name="Dinosaur battery-powered slippers (Green) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>4</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>16.00</UnitPrice>
+    <!--StockItemID:        120-->
+  </Item>
+  <Item Name="Dinosaur battery-powered slippers (Green) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        121-->
+  </Item>
+  <Item Name="Ogre battery-powered slippers (Green) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        122-->
+  </Item>
+  <Item Name="Ogre battery-powered slippers (Green) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        123-->
+  </Item>
+  <Item Name="Ogre battery-powered slippers (Green) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        124-->
+  </Item>
+  <Item Name="Ogre battery-powered slippers (Green) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        125-->
+  </Item>
+  <Item Name="Plush shark slippers (Gray) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        126-->
+  </Item>
+  <Item Name="Plush shark slippers (Gray) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        127-->
+  </Item>
+  <Item Name="Plush shark slippers (Gray) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        128-->
+  </Item>
+  <Item Name="Plush shark slippers (Gray) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        129-->
+  </Item>
+  <Item Name="Furry gorilla with big eyes slippers (Black) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        130-->
+  </Item>
+  <Item Name="Furry gorilla with big eyes slippers (Black) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        131-->
+  </Item>
+  <Item Name="Furry gorilla with big eyes slippers (Black) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        132-->
+  </Item>
+  <Item Name="Furry gorilla with big eyes slippers (Black) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>4</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        133-->
+  </Item>
+  <Item Name="Animal with big feet slippers (Brown) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        134-->
+  </Item>
+  <Item Name="Animal with big feet slippers (Brown) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        135-->
+  </Item>
+  <Item Name="Animal with big feet slippers (Brown) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        136-->
+  </Item>
+  <Item Name="Animal with big feet slippers (Brown) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        137-->
+  </Item>
+  <Item Name="Furry animal socks (Pink) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>10</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>5.00</UnitPrice>
+    <!--StockItemID:        138-->
+  </Item>
+  <Item Name="Furry animal socks (Pink) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>10</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>5.00</UnitPrice>
+    <!--StockItemID:        139-->
+  </Item>
+  <Item Name="Furry animal socks (Pink) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>10</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>5.00</UnitPrice>
+    <!--StockItemID:        140-->
+  </Item>
+  <Item Name="Furry animal socks (Pink) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>10</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>5.00</UnitPrice>
+    <!--StockItemID:        141-->
+  </Item>
+  <Item Name="Halloween zombie mask (Light Brown) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        142-->
+  </Item>
+  <Item Name="Halloween zombie mask (Light Brown) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        143-->
+  </Item>
+  <Item Name="Halloween zombie mask (Light Brown) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        144-->
+  </Item>
+  <Item Name="Halloween zombie mask (Light Brown) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        145-->
+  </Item>
+  <Item Name="Halloween skull mask (Gray) S">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        146-->
+  </Item>
+  <Item Name="Halloween skull mask (Gray) M">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        147-->
+  </Item>
+  <Item Name="Halloween skull mask (Gray) L">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        148-->
+  </Item>
+  <Item Name="Halloween skull mask (Gray) XL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        149-->
+  </Item>
+  <Item Name="Pack of 12 action figures (variety)">
+    <SupplierID>2</SupplierID>
+    <Package>
+      <UnitPackageID>9</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>2</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>16.00</UnitPrice>
+    <!--StockItemID:        150-->
+  </Item>
+  <Item Name="Pack of 12 action figures (male)">
+    <SupplierID>2</SupplierID>
+    <Package>
+      <UnitPackageID>9</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>2</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>16.00</UnitPrice>
+    <!--StockItemID:        151-->
+  </Item>
+  <Item Name="Pack of 12 action figures (female)">
+    <SupplierID>2</SupplierID>
+    <Package>
+      <UnitPackageID>9</UnitPackageID>
+      <OuterPackageID>9</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>2</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>16.00</UnitPrice>
+    <!--StockItemID:        152-->
+  </Item>
+  <Item Name="Small sized bubblewrap roll 10m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.50</UnitPrice>
+    <!--StockItemID:        153-->
+  </Item>
+  <Item Name="Medium sized bubblewrap roll 20m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>20.00</UnitPrice>
+    <!--StockItemID:        154-->
+  </Item>
+  <Item Name="Large sized bubblewrap roll 50m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>36.00</UnitPrice>
+    <!--StockItemID:        155-->
+  </Item>
+  <Item Name="10 mm Double sided bubble wrap 10m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>15.00</UnitPrice>
+    <!--StockItemID:        156-->
+  </Item>
+  <Item Name="10 mm Double sided bubble wrap 20m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>30.00</UnitPrice>
+    <!--StockItemID:        157-->
+  </Item>
+  <Item Name="10 mm Double sided bubble wrap 50m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>105.00</UnitPrice>
+    <!--StockItemID:        158-->
+  </Item>
+  <Item Name="20 mm Double sided bubble wrap 10m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        159-->
+  </Item>
+  <Item Name="20 mm Double sided bubble wrap 20m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>33.00</UnitPrice>
+    <!--StockItemID:        160-->
+  </Item>
+  <Item Name="20 mm Double sided bubble wrap 50m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>108.00</UnitPrice>
+    <!--StockItemID:        161-->
+  </Item>
+  <Item Name="32 mm Double sided bubble wrap 10m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>22.00</UnitPrice>
+    <!--StockItemID:        162-->
+  </Item>
+  <Item Name="32 mm Double sided bubble wrap 20m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>37.00</UnitPrice>
+    <!--StockItemID:        163-->
+  </Item>
+  <Item Name="32 mm Double sided bubble wrap 50m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>112.00</UnitPrice>
+    <!--StockItemID:        164-->
+  </Item>
+  <Item Name="10 mm Anti static bubble wrap (Blue) 10m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>26.00</UnitPrice>
+    <!--StockItemID:        165-->
+  </Item>
+  <Item Name="10 mm Anti static bubble wrap (Blue) 20m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>42.00</UnitPrice>
+    <!--StockItemID:        166-->
+  </Item>
+  <Item Name="10 mm Anti static bubble wrap (Blue) 50m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>99.00</UnitPrice>
+    <!--StockItemID:        167-->
+  </Item>
+  <Item Name="20 mm Anti static bubble wrap (Blue) 10m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>29.00</UnitPrice>
+    <!--StockItemID:        168-->
+  </Item>
+  <Item Name="20 mm Anti static bubble wrap (Blue) 20m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>45.00</UnitPrice>
+    <!--StockItemID:        169-->
+  </Item>
+  <Item Name="20 mm Anti static bubble wrap (Blue) 50m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>102.00</UnitPrice>
+    <!--StockItemID:        170-->
+  </Item>
+  <Item Name="32 mm Anti static bubble wrap (Blue) 10m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        171-->
+  </Item>
+  <Item Name="32 mm Anti static bubble wrap (Blue) 20m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>48.00</UnitPrice>
+    <!--StockItemID:        172-->
+  </Item>
+  <Item Name="32 mm Anti static bubble wrap (Blue) 50m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>105.00</UnitPrice>
+    <!--StockItemID:        173-->
+  </Item>
+  <Item Name="Bubblewrap dispenser (Black) 1.5m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>240.00</UnitPrice>
+    <!--StockItemID:        174-->
+  </Item>
+  <Item Name="Bubblewrap dispenser (Blue) 1.5m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>240.00</UnitPrice>
+    <!--StockItemID:        175-->
+  </Item>
+  <Item Name="Bubblewrap dispenser (Red) 1.5m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>240.00</UnitPrice>
+    <!--StockItemID:        176-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 413x285x187mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.350</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>0.34</UnitPrice>
+    <!--StockItemID:        177-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 500x310x310mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.55</UnitPrice>
+    <!--StockItemID:        178-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 229x229x229mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>1.05</UnitPrice>
+    <!--StockItemID:        179-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 279x254x217mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>1.11</UnitPrice>
+    <!--StockItemID:        180-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 356x229x229mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>1.14</UnitPrice>
+    <!--StockItemID:        181-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 457x279x279mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>1.92</UnitPrice>
+    <!--StockItemID:        182-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 480x270x320mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.74</UnitPrice>
+    <!--StockItemID:        183-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 305x305x305mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.50</UnitPrice>
+    <!--StockItemID:        184-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 356x356x279mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.300</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>3.06</UnitPrice>
+    <!--StockItemID:        185-->
+  </Item>
+  <Item Name="Shipping carton (Brown) 457x457x457mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.10</UnitPrice>
+    <!--StockItemID:        186-->
+  </Item>
+  <Item Name="Express post box 5kg (White) 350x280x130mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.200</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>0.95</UnitPrice>
+    <!--StockItemID:        187-->
+  </Item>
+  <Item Name="3 kg Courier post bag (White) 300x190x95mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>25</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>0.66</UnitPrice>
+    <!--StockItemID:        188-->
+  </Item>
+  <Item Name="Clear packaging tape 48mmx75m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>26</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.90</UnitPrice>
+    <!--StockItemID:        189-->
+  </Item>
+  <Item Name="Clear packaging tape 48mmx100m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>20</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.50</UnitPrice>
+    <!--StockItemID:        190-->
+  </Item>
+  <Item Name="Black and orange fragile despatch tape 48mmx75m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>36</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.70</UnitPrice>
+    <!--StockItemID:        191-->
+  </Item>
+  <Item Name="Black and orange fragile despatch tape 48mmx100m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>36</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.10</UnitPrice>
+    <!--StockItemID:        192-->
+  </Item>
+  <Item Name="Black and orange glass with care despatch tape 48mmx75m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.70</UnitPrice>
+    <!--StockItemID:        193-->
+  </Item>
+  <Item Name="Black and orange glass with care despatch tape  48mmx100m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.10</UnitPrice>
+    <!--StockItemID:        194-->
+  </Item>
+  <Item Name="Black and orange handle with care despatch tape  48mmx75m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.70</UnitPrice>
+    <!--StockItemID:        195-->
+  </Item>
+  <Item Name="Black and orange handle with care despatch tape  48mmx100m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.10</UnitPrice>
+    <!--StockItemID:        196-->
+  </Item>
+  <Item Name="Black and orange this way up despatch tape 48mmx75m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.70</UnitPrice>
+    <!--StockItemID:        197-->
+  </Item>
+  <Item Name="Black and orange this way up despatch tape  48mmx100m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.10</UnitPrice>
+    <!--StockItemID:        198-->
+  </Item>
+  <Item Name="Black and yellow heavy despatch tape  48mmx75m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.70</UnitPrice>
+    <!--StockItemID:        199-->
+  </Item>
+  <Item Name="Black and yellow heavy despatch tape 48mmx100m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.10</UnitPrice>
+    <!--StockItemID:        200-->
+  </Item>
+  <Item Name="Red and white urgent despatch tape 48mmx75m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>3.70</UnitPrice>
+    <!--StockItemID:        201-->
+  </Item>
+  <Item Name="Red and white urgent  heavy despatch tape  48mmx100m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.10</UnitPrice>
+    <!--StockItemID:        202-->
+  </Item>
+  <Item Name="Tape dispenser (Black)">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>20</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        203-->
+  </Item>
+  <Item Name="Tape dispenser (Red)">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>20</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        204-->
+  </Item>
+  <Item Name="Tape dispenser (Blue)">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>20</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>32.00</UnitPrice>
+    <!--StockItemID:        205-->
+  </Item>
+  <Item Name="Permanent marker black 5mm nib (Black) 5mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.70</UnitPrice>
+    <!--StockItemID:        206-->
+  </Item>
+  <Item Name="Permanent marker blue 5mm nib (Blue) 5mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.70</UnitPrice>
+    <!--StockItemID:        207-->
+  </Item>
+  <Item Name="Permanent marker red 5mm nib (Red) 5mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.100</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.70</UnitPrice>
+    <!--StockItemID:        208-->
+  </Item>
+  <Item Name="Packing knife with metal insert blade (Yellow) 9mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>5</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>1.89</UnitPrice>
+    <!--StockItemID:        209-->
+  </Item>
+  <Item Name="Packing knife with metal insert blade (Yellow) 18mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>5</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>2.40</UnitPrice>
+    <!--StockItemID:        210-->
+  </Item>
+  <Item Name="Small 9mm replacement blades 9mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.700</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>4.10</UnitPrice>
+    <!--StockItemID:        211-->
+  </Item>
+  <Item Name="Large  replacement blades 18mm">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.800</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>21</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>2.45</UnitPrice>
+    <!--StockItemID:        212-->
+  </Item>
+  <Item Name="Air cushion film 200mmx100mm 325m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>5.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>87.00</UnitPrice>
+    <!--StockItemID:        213-->
+  </Item>
+  <Item Name="Air cushion film 200mmx200mm 325m">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>6.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>90.00</UnitPrice>
+    <!--StockItemID:        214-->
+  </Item>
+  <Item Name="Air cushion machine (Blue)">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>1</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>10.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>20</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>1899.00</UnitPrice>
+    <!--StockItemID:        215-->
+  </Item>
+  <Item Name="Void fill 100 L bag (White) 100L">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>12.50</UnitPrice>
+    <!--StockItemID:        216-->
+  </Item>
+  <Item Name="Void fill 200 L bag (White) 200L">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>25.00</UnitPrice>
+    <!--StockItemID:        217-->
+  </Item>
+  <Item Name="Void fill 300 L bag (White) 300L">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.750</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>37.50</UnitPrice>
+    <!--StockItemID:        218-->
+  </Item>
+  <Item Name="Void fill 400 L bag (White) 400L">
+    <SupplierID>7</SupplierID>
+    <Package>
+      <UnitPackageID>7</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>1.000</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>14</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>15.000</TaxRate>
+    <UnitPrice>50.00</UnitPrice>
+    <!--StockItemID:        219-->
+  </Item>
+  <Item Name="Novelty chilli chocolates 250g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>8.55</UnitPrice>
+    <!--StockItemID:        220-->
+  </Item>
+  <Item Name="Novelty chilli chocolates 500g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.500</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>14.50</UnitPrice>
+    <!--StockItemID:        221-->
+  </Item>
+  <Item Name="Chocolate beetles 250g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>8.55</UnitPrice>
+    <!--StockItemID:        222-->
+  </Item>
+  <Item Name="Chocolate echidnas 250g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>8.55</UnitPrice>
+    <!--StockItemID:        223-->
+  </Item>
+  <Item Name="Chocolate frogs 250g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>8.55</UnitPrice>
+    <!--StockItemID:        224-->
+  </Item>
+  <Item Name="Chocolate sharks 250g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>8.55</UnitPrice>
+    <!--StockItemID:        225-->
+  </Item>
+  <Item Name="White chocolate snow balls 250g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>8.55</UnitPrice>
+    <!--StockItemID:        226-->
+  </Item>
+  <Item Name="White chocolate moon rocks 250g">
+    <SupplierID>1</SupplierID>
+    <Package>
+      <UnitPackageID>1</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>24</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.250</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>3</LeadTimeDays>
+    <IsChillerStock>1</IsChillerStock>
+    <TaxRate>10.000</TaxRate>
+    <UnitPrice>8.55</UnitPrice>
+    <!--StockItemID:        227-->
+  </Item>
+  <Item Name="&quot;The Gu&quot; red shirt XML tag t-shirt (Black) 3XXL">
+    <SupplierID>4</SupplierID>
+    <Package>
+      <UnitPackageID>4</UnitPackageID>
+      <OuterPackageID>6</OuterPackageID>
+      <QuantityPerOuter>12</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.400</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>7</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>18.00</UnitPrice>
+    <!--StockItemID:        228-->
+  </Item>
+  <Item Name="Developer joke mug (Yellow)">
+    <SupplierID>5</SupplierID>
+    <Package>
+      <UnitPackageID>5</UnitPackageID>
+      <OuterPackageID>7</OuterPackageID>
+      <QuantityPerOuter>10</QuantityPerOuter>
+    </Package>
+    <TypicalWeightPerUnit>
+      <QuantityPerOuter>0.600</QuantityPerOuter>
+    </TypicalWeightPerUnit>
+    <LeadTimeDays>12</LeadTimeDays>
+    <IsChillerStock>0</IsChillerStock>
+    <TaxRate>20.000</TaxRate>
+    <UnitPrice>1.50</UnitPrice>
+    <!--StockItemID:        229-->
+  </Item>
+</StockItems>
