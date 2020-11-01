@@ -93,17 +93,17 @@ OUTPUT $action, inserted.*, deleted.*; --измененные строки
 /*2. Выгрузить данные из таблицы StockItems в такой же xml-файл, как StockItems.xml*/
  -- FOR XML PATH
 SELECT 
-    StockItemName AS [@Name]
-    ,SupplierID
-    ,UnitPackageID AS [Package/UnitPackageID]
-    ,OuterPackageID AS [Package/OuterPackageID]
+	StockItemName AS [@Name]
+	,SupplierID
+	,UnitPackageID AS [Package/UnitPackageID]
+	,OuterPackageID AS [Package/OuterPackageID]
 	,QuantityPerOuter AS [Package/QuantityPerOuter]
 	,TypicalWeightPerUnit AS [TypicalWeightPerUnit/QuantityPerOuter]
 	,LeadTimeDays
 	,IsChillerStock
 	,TaxRate
 	,UnitPrice
-    ,'StockItemID: ' + str(StockItemID) as "comment()"
+	,'StockItemID: ' + str(StockItemID) as "comment()"
 FROM Warehouse.StockItems
 FOR XML PATH('Item'), ROOT('StockItems')
 GO
