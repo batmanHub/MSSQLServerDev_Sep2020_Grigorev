@@ -1,5 +1,5 @@
 /*
-1) Написать функцию возвращающую  лиента с наибольшей суммой покупки.
+1) Написать функцию возвращающую  клиента с наибольшей суммой покупки.
 */
 
 IF  OBJECT_ID ( 'dbo.uFN_GetCustomerIDByMaxSum','FN' ) IS NOT NULL   
@@ -9,7 +9,7 @@ IF  OBJECT_ID ( 'dbo.uFN_GetCustomerIDByMaxSum_withMax','FN' ) IS NOT NULL
     DROP FUNCTION dbo.uFN_GetCustomerIDByMaxSum_withMax;  
 GO  
 -- =============================================
--- Description: ”ровень изол¤ции : Read Committed
+-- Description: Уровень изол¤ции : Read Committed
 -- =============================================
 CREATE FUNCTION uFN_GetCustomerIDByMaxSum ()
 RETURNS int
@@ -17,44 +17,53 @@ AS
 BEGIN
 	Declare @CustomerID int;
 
-	Set @CustomerID = ( select  TopCustomer.CustomerID FROM (
+	Set @CustomerID = ( select  orders2.CustomerID FROM (
 		Select TOP (1) 
-			Orders.CustomerID
+			Orders.OrderID
 			,SUM (UnitPrice * Quantity) as SaleSum
-		FROM Sales.Customers as cust
-		JOIN Sales.Orders on Orders.CustomerID = cust.CustomerID
+		FROM  Sales.Orders as orders
 		JOIN Sales.OrderLines ON Orders.OrderID = OrderLines.OrderID
-		GROUP BY Orders.CustomerID
+		GROUP BY Orders.OrderID
 		ORDER BY SUM (UnitPrice * Quantity) DESC
-		) as TopCustomer)
+		) as topOrder
+		join Sales.Orders as orders2 ON orders2.OrderID = topOrder.OrderID
+		)
 	Return (@CustomerID)
 END;
 GO
+
 CREATE FUNCTION uFN_GetCustomerIDByMaxSum_withMax ()
 RETURNS int
 AS
 BEGIN
 	Declare @CustomerID int;
 
-	Set @CustomerID = ( select  
-	Max (TopCustomer.CustomerID)
-	FROM (
-		Select  
-			Orders.CustomerID as CustomerID 
-			,SUM (UnitPrice * Quantity) as SaleSum
-		FROM Sales.Customers as cust
-		JOIN Sales.Orders on Orders.CustomerID = cust.CustomerID
-		JOIN Sales.OrderLines ON Orders.OrderID = OrderLines.OrderID
-		GROUP BY Orders.CustomerID
-		) as TopCustomer
-	Having TopCustomer.SaleSum = Max
+	Set @CustomerID = ( Select 
+	Orders.CustomerID
+	--Orders.OrderID
+	--,SUM (UnitPrice * Quantity) as SaleSum
+	FROM  Sales.Orders as orders
+	JOIN Sales.OrderLines ON Orders.OrderID = OrderLines.OrderID
+	GROUP BY Orders.OrderID,Orders.CustomerID
+	HAVING SUM (UnitPrice * Quantity) = (
+		Select MAX(SaleSum2) 
+		FROM (
+			Select 
+				SUM (UnitPrice * Quantity) as SaleSum2
+			FROM  Sales.Orders as orders2
+			JOIN Sales.OrderLines as OrderLines2 ON Orders2.OrderID = OrderLines2.OrderID
+			GROUP BY Orders2.OrderID
+			) as SalesSums
+		) --as topSalesSum
 	)
 	Return (@CustomerID)
 END;
 GO
 
+set statistics time on
 select dbo.uFN_GetCustomerIDByMaxSum () as TopCustomer
 select dbo.uFN_GetCustomerIDByMaxSum_withMax () as TopCustomer2
+--если выполнять как функцию, то 
 
 /*2) Написать хранимую процедуру с вход¤щим параметром CustomerID, выводящую сумму покупки по этому клиенту.
 */
