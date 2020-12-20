@@ -63,7 +63,6 @@ GO
 set statistics time on
 select dbo.uFN_GetCustomerIDByMaxSum () as TopCustomer
 select dbo.uFN_GetCustomerIDByMaxSum_withMax () as TopCustomer2
---если выполнять как функцию, то 
 
 /*2) Написать хранимую процедуру с вход¤щим параметром CustomerID, выводящую сумму покупки по этому клиенту.
 */
